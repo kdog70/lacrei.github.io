@@ -1,0 +1,35 @@
+.font-h1 {
+  font: 700 3rem/1 "Nunito", sans-serif;
+}
+
+.font-p {
+  font: 400 1.5rem/1.25 "Nunito", sans-serif;
+}
+
+.font-menu {
+  font: 700 1rem/1 "Nunito", sans-serif;
+}
+
+.font-menu-rodape {
+  font: 400 1rem/1 "Nunito", sans-serif;
+}
+
+.font-menu-rodape-sel {
+  font: 700 1rem/1 "Nunito", sans-serif;
+}
+
+.font-copy {
+  font: 400 0.75rem/1 "Nunito", sans-serif;
+}
+
+@media (max-width: 1200px) {
+  .font-1-g {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .font-1-g {
+    font-size: 1.5rem;
+  }
+}
